@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Koteswararao Ediga</h1>
-<h3 align="center">🚀 Full Stack Developer | 📚 Lifelong Learner | 🤝 Team Player</h3>
+<h3 align="center">🚀 Full Stack Developer | 📊 Beginner in Data Science | 🤝 Team Player</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=koteediga&label=Profile%20views&color=0e75b6&style=flat" alt="koteediga" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/koteediga85" target="_blank">
+  <a href="https://www.linkedin.com/in/ediga-koteswararao-905749234/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
   <a href="https://github.com/koteediga" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
-  <a href="https://leetcode.com/koteediga85/" target="_blank">
+  <a href="https://leetcode.com/u/m1DkMQiZ3D/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black" alt="LeetCode Badge" />
   </a>
 </p>
@@ -22,13 +22,19 @@
 ## 👨‍💻 About Me
 
 🎓 I'm currently pursuing **Integrated M.Tech in CSE** at **VIT Amaravati** (CGPA: 8.69)  
-🎯 Focused on becoming a **MERN Stack Developer**  
+🎯 Focused on becoming a **MERN Stack Developer**, starting my journey in **Data Science**  
 🏆 Achieved **Top 5** position in **V-Launchpad Entrepreneurship Program**  
 🏐 National-level volleyball player and team leader  
 
 ---
 
 ## 💼 Projects
+
+### 🔹 [Medicure - Healthcare REST API System](https://github.com/koteediga/Medicure-frontend)
+- 🩺 Designed and developed a **responsive frontend** using React.js for booking appointments and managing prescriptions.
+- ⚙️ Created a secure **Spring Boot REST API** for handling doctor appointments and medicine deliveries.
+- 🚀 Improved scheduling efficiency by **25%** with optimized endpoints and real-time updates.
+- **Tech Stack:** Java, Spring Boot, React.js, MySQL, Docker, AWS, SonarQube
 
 ### 🔹 [Jobby App](https://github.com/koteediga/jobbyApp)
 - Job search platform with login, job listings, and details
@@ -49,11 +55,11 @@
 - 🧠 React.js | HTML | CSS | Bootstrap
 
 ### Backend & Database
-- ⚙️ Node.js | Express.js
-- 🗃️ MongoDB | SQLite
+- ⚙️ Node.js | Express.js | Spring Boot
+- 🗃️ MongoDB | MySQL | SQLite
 
 ### Tools & Practices
-- 🧪 Postman | GitHub | Docker | VSCode
+- 🧪 Postman | GitHub | Docker | AWS | VSCode | SonarQube
 - 🔁 SDLC (Agile & Waterfall)
 
 ---
@@ -76,9 +82,9 @@
 ---
 
 ## ⚡ Fun Fact
-I love turning real-world ideas into full-stack apps and pushing my limits in coding & sports.
+I enjoy learning new tech stacks and solving real-world problems — from medical platforms to job portals — and I'm currently diving into **Data Science**!
 
 ---
 
-> 📬 Feel free to connect with me. I'm always up for collaboration, contribution, or just tech chats!
+> 📬 Let's connect and collaborate on something impactful!
 
