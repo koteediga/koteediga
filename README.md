@@ -23,7 +23,6 @@
 
 🎓 I'm currently pursuing **Integrated M.Tech in CSE** at **VIT Amaravati** (CGPA: 8.69)  
 🎯 Focused on becoming a **MERN Stack Developer**, starting my journey in **Data Science**  
-🏆 Achieved **Top 5** position in **V-Launchpad Entrepreneurship Program**  
 🏐 National-level volleyball player and team leader  
 
 ---
