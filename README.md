@@ -30,7 +30,7 @@
 
 ## 💼 Projects
 
-### 🔹 [Medicure - Healthcare REST API System](https://github.com/koteediga/Medicure-frontend)
+### 🔹 [Medicure - Healthcare REST API System](https://github.com/koteediga/Medicure.git)
 - 🩺 Designed and developed a **responsive frontend** using React.js for booking appointments and managing prescriptions.
 - ⚙️ Created a secure **Spring Boot REST API** for handling doctor appointments and medicine deliveries.
 - 🚀 Improved scheduling efficiency by **25%** with optimized endpoints and real-time updates.
