@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Koteswararao Ediga</h1>
-<h3 align="center">🚀 Full Stack Developer | 📊 Beginner in Data Science | 🤝 Team Player</h3>
+<h3 align="center">🚀 Full Stack Developer | 🧠 AI/ML Engineer |📊 Beginner in Data Science </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=koteediga&label=Profile%20views&color=0e75b6&style=flat" alt="koteediga" />
